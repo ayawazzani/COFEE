@@ -467,13 +467,13 @@ h1 {
 
 button {
     padding: 10px 20px;
-    background-color: #5cb85c;
-    color: white;
+    background-color: #3b141c;
+    
     border: none;
     border-radius: 5px;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #4cae4c;
+    background-color: #3b141c;
 }
